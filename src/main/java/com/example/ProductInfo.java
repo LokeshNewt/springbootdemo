@@ -8,9 +8,7 @@ public class ProductInfo {
 	
 	private String productModel;
 
-   
-	
-	public ProductInfo() {
+       public ProductInfo() {
 		super();
 	}
 
